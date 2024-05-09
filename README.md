@@ -56,7 +56,10 @@ Before running the project, make sure you have the following installed:
 
 2. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to view the application.
 
-3. Connect your Ethereum wallet or MetaMask to interact with the marketplace.
+3. Connect your Ethereum wallet or MetaMask to interact with the marketplace. 
+![Screenshot 2024-05-09 151902](https://github.com/iamwilllrobinson/NFT-MARKETPLACE/assets/95238435/667b6449-ef2e-45f0-ae8f-91572c6cd82a)
+
+![Screenshot 2024-05-09 at 15-21-14 NFT Market](https://github.com/iamwilllrobinson/NFT-MARKETPLACE/assets/95238435/e4d78f9d-99f5-4d6a-98b1-cbc4602b18f8)
 
 4. Explore the marketplace, buy NFTs, sell your own NFTs, or mint new NFTs.
 
